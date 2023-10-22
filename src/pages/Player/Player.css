@@ -1,0 +1,8 @@
+.player{
+    width: 100vw;
+    height: 100vh;
+}
+
+.player-body{
+    display: flex;
+}
